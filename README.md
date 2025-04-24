@@ -21,3 +21,6 @@ Projekt symulujący wzrost roślin przy użyciu danych wejściowych. Program spr
 3. Uruchamianie programu
 `python main.py`
 
+![Animacja wzrostu roślin](wzrost_roslin.gif)
+
+
