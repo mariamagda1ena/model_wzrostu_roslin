@@ -2,15 +2,11 @@
 
 Projekt symulujący wzrost roślin przy użyciu danych wejściowych. Program sprawdza zależność między wielkością osobnika a jego sąsiadami. 
 
-## Struktura projektu
-
-model_wzrostu_roslin/ │ ├── frames/ # Generowane klatki animacji ├── main.py # Główna logika programu ├── config.py # Parametry wzrostu roślin ├── utils.py # Funkcje pomocnicze ├── requirements.txt # Wymagane biblioteki └── README.md # Ten plik
-
 ## Działanie
 
 1. Program generuje kolejne etapy wzrostu rośliny.
 2. Każdy etap jest zapisywany jako osobna klatka.
-3. Finalnie tworzony jest animowany GIF pokazujący cały proces.
+3. Finalnie tworzony jest animowany GIF pokazujący cały proces oraz mapa LISA pokazująca lokalną autokorelację przestrzenną.
 
 ## Uruchamianie
 
@@ -24,3 +20,4 @@ model_wzrostu_roslin/ │ ├── frames/ # Generowane klatki animacji ├─�
 `pip install -r requirements.txt`
 3. Uruchamianie programu
 `python main.py`
+
