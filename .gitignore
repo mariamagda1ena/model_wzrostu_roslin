@@ -1,0 +1,8 @@
+venv/
+frames*/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.gif
+.idea/

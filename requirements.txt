@@ -1,0 +1,6 @@
+numpy
+matplotlib
+imageio
+scipy
+libpysal
+esda
