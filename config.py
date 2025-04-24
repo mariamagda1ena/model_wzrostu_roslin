@@ -1,3 +1,4 @@
+# config.py
 # Parametry modelu
 
 L = 100  # rozmiar przestrzeni
