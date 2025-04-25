@@ -6,7 +6,8 @@ Projekt symulujący wzrost roślin przy użyciu danych wejściowych. Program spr
 
 1. Program generuje kolejne etapy wzrostu rośliny.
 2. Każdy etap jest zapisywany jako osobna klatka.
-3. Finalnie tworzony jest animowany GIF pokazujący cały proces oraz mapa LISA pokazująca lokalną autokorelację przestrzenną.
+3. Program wypisuje współczynnik korelacji Spearmana obliczony dla średniej wielkości 4 najbliższych sąsiadów oraz współczynnik autokorelacji przestrzennej Morana wraz z p wartościami.
+4. Finalnie tworzony jest animowany GIF pokazujący cały proces oraz mapa LISA pokazująca lokalną autokorelację przestrzenną.
 
 ## Uruchamianie
 
